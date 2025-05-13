@@ -35,7 +35,7 @@
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/BudiAmin/BudiAmin/blob/output/github-snake-dark.svg)
+  ![snake gif](github-snake-dark.svg)
 </div>
 
 <!-- Tools -->
