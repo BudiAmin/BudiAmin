@@ -8,8 +8,6 @@
 
 <img src="ocean.gif" width="720" alt="Banner" /><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BudiAmin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=16A34A&text_color=a0e6b4&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BudiAmin&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=16A34A&currStreakLabel=22C55E&sideLabels=22C55E" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -79,16 +77,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" title="Figma" />
   </a>
 </p>
-
----
-
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudiAmin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=a0e6b4&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ---
 
