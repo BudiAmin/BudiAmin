@@ -8,8 +8,8 @@
 
 <img src="ocean.gif" width="720" alt="Banner" /><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=budiamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=16A34A&text_color=a0e6b4&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=budiamin&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=16A34A&currStreakLabel=22C55E&sideLabels=22C55E" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=BudiAmin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=16A34A&text_color=a0e6b4&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BudiAmin&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=16A34A&currStreakLabel=22C55E&sideLabels=22C55E" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=a0e6b4&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudiAmin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=a0e6b4&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=budiamin&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=BudiAmin&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" alt="Profile Views" />
 
 *"Kode yang baik bukan tentang seberapa cepat kamu menulisnya, tapi seberapa mudah orang lain membacanya."*
 
