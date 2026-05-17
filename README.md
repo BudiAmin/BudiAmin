@@ -1,49 +1,59 @@
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deden...;" />
-</h1>-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=720&height=72&duration=3200&pause=900&color=22C55E&lines=Halo%2C+saya+Budi+Amin;Membangun+solusi+yang+rapi%2C+berguna%2C+dan+terus+berkembang;Tetap+belajar%2C+tetap+berkarya" alt="Typing intro" />
+</p>
 
-<!-- Banner -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BudiAmin&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BudiAmin&theme=merko&hide_border=true" width="48%" alt="GitHub streak" />
+</p>
 
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudiAmin&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="38%" alt="Top languages" />
+</p>
 
-<!-- Stats -->
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=BudiAmin&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
-  <img alt="Coding" width="380" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BudiAmin&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudiAmin&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
-</div> <br>
+<p align="center">
+  <img src="github-snake.svg" alt="GitHub contribution snake" />
+</p>
 
-<!-- Tech Stack -->
-<div align="center">
-    
-# 💻 Tech Stack:
+## Tentang Saya
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan eksperimen yang membuat workflow jadi lebih efektif. Saat ini halaman profil ini saya arahkan ke tampilan yang lebih hijau, lebih bersih, dan lebih konsisten.
 
-</div>
+## Tech Stack
 
-<!-- Socials -->
-<div align="center">
-  
-## 🌐 Connect with Me 🍬
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3emwPdd2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BudiAminDalimunthe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/budiadlm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/budi-amin-109823261/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@budiamin3174)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-22C55E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-16A34A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-14532D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-15803D?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1F7A1F?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-0F766E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Dart-047857?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
-</div>
+## Tools yang Sering Dipakai
 
-<!-- Tools -->
-<div align="center">
-<h2 align="center"></h2>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</div>
+<p align="center">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="40" height="40" /></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" /></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
+</p>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/3emwPdd2"><img src="https://img.shields.io/badge/Discord-22C55E?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://facebook.com/BudiAminDalimunthe"><img src="https://img.shields.io/badge/Facebook-15803D?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/budiadlm"><img src="https://img.shields.io/badge/Instagram-16A34A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/budi-amin-109823261/"><img src="https://img.shields.io/badge/LinkedIn-14532D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@budiamin3174"><img src="https://img.shields.io/badge/YouTube-166534?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
