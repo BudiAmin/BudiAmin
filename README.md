@@ -1,9 +1,13 @@
+# Budi Amin
+
+<!-- markdownlint-disable MD033 -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=720&height=72&duration=3200&pause=900&color=22C55E&lines=Halo%2C+saya+Budi+Amin;Membangun+solusi+yang+rapi%2C+berguna%2C+dan+terus+berkembang;Tetap+belajar%2C+tetap+berkarya" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="ocean.gif" width="720" alt="Green ocean banner" />
+  <img src="ocean.gif" width="720" alt="Banner" />
 </p>
 
 <p align="center">
@@ -12,14 +16,7 @@
 
 ## Tentang Saya
 
-Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan eksperimen yang membuat workflow jadi lebih efektif. Halaman profil ini saya arahkan ke tampilan yang lebih hijau, lebih bersih, dan lebih konsisten.
-
-## Sorotan
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fokus-Penghijauan%20profil-22C55E?style=for-the-badge&labelColor=14532D" alt="Fokus penghijauan" />
-  <img src="https://img.shields.io/badge/Status-Lebih%20rapi%20dan%20stabil-15803D?style=for-the-badge&labelColor=0F172A" alt="Status rapi" />
-</p>
+Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan eksperimen yang membuat workflow jadi lebih efektif. Fokus saya sekarang adalah membuat profil ini lebih hijau, lebih bersih, dan lebih konsisten.
 
 ## Tech Stack
 
@@ -34,7 +31,17 @@ Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan ekspe
   <img src="https://img.shields.io/badge/Dart-047857?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-## Tools yang Sering Dipakai
+## Connect with Me
+
+<p align="center">
+  <a href="https://discord.gg/3emwPdd2"><img src="https://img.shields.io/badge/Discord-22C55E?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://facebook.com/BudiAminDalimunthe"><img src="https://img.shields.io/badge/Facebook-15803D?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/budiadlm"><img src="https://img.shields.io/badge/Instagram-16A34A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/budi-amin-109823261/"><img src="https://img.shields.io/badge/LinkedIn-14532D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@budiamin3174"><img src="https://img.shields.io/badge/YouTube-166534?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+## Tools
 
 <p align="center">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="40" height="40" /></a>
@@ -48,14 +55,4 @@ Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan ekspe
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" /></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-</p>
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://discord.gg/3emwPdd2"><img src="https://img.shields.io/badge/Discord-22C55E?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://facebook.com/BudiAminDalimunthe"><img src="https://img.shields.io/badge/Facebook-15803D?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/budiadlm"><img src="https://img.shields.io/badge/Instagram-16A34A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/budi-amin-109823261/"><img src="https://img.shields.io/badge/LinkedIn-14532D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@budiamin3174"><img src="https://img.shields.io/badge/YouTube-166534?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
