@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BudiAmin&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BudiAmin&theme=merko&hide_border=true" width="48%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudiAmin&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="38%" alt="Top languages" />
+  <img src="ocean.gif" width="720" alt="Green ocean banner" />
 </p>
 
 <p align="center">
@@ -17,7 +12,14 @@
 
 ## Tentang Saya
 
-Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan eksperimen yang membuat workflow jadi lebih efektif. Saat ini halaman profil ini saya arahkan ke tampilan yang lebih hijau, lebih bersih, dan lebih konsisten.
+Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan eksperimen yang membuat workflow jadi lebih efektif. Halaman profil ini saya arahkan ke tampilan yang lebih hijau, lebih bersih, dan lebih konsisten.
+
+## Sorotan
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fokus-Penghijauan%20profil-22C55E?style=for-the-badge&labelColor=14532D" alt="Fokus penghijauan" />
+  <img src="https://img.shields.io/badge/Status-Lebih%20rapi%20dan%20stabil-15803D?style=for-the-badge&labelColor=0F172A" alt="Status rapi" />
+</p>
 
 ## Tech Stack
 
