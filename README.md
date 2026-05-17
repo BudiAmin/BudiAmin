@@ -2,23 +2,32 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=720&height=72&duration=3200&pause=900&color=22C55E&lines=Halo%2C+saya+Budi+Amin;Membangun+solusi+yang+rapi%2C+berguna%2C+dan+terus+berkembang;Tetap+belajar%2C+tetap+berkarya" alt="Typing intro" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="ocean.gif" width="720" alt="Banner" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=720&height=72&duration=3200&pause=900&color=22C55E&lines=Halo%2C+saya+Budi+Amin;Membangun+solusi+yang+rapi%2C+berguna%2C+dan+terus+berkembang;Tetap+belajar%2C+tetap+berkarya" alt="Typing intro" />
 
-<p align="center">
-  <img src="github-snake.svg" alt="GitHub contribution snake" />
-</p>
+<img src="ocean.gif" width="720" alt="Banner" /><br/>
 
-## Tentang Saya
+<img src="https://github-readme-stats.vercel.app/api?username=budiamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=16A34A&text_color=a0e6b4&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=budiamin&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=16A34A&currStreakLabel=22C55E&sideLabels=22C55E" height="165" alt="GitHub Streak" />
 
-Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan eksperimen yang membuat workflow jadi lebih efektif. Fokus saya sekarang adalah membuat profil ini lebih hijau, lebih bersih, dan lebih konsisten.
+</div>
 
-## Tech Stack
+---
+
+## 👤 Tentang Saya
+
+```text
+🌱  Selalu belajar hal-hal baru setiap hari
+🔨  Suka membangun antarmuka yang rapi & ringan dipakai
+⚡  Fokus pada kualitas kode dan pengalaman pengguna
+🎯  Tujuan: profil makin aktif, kode makin bersih
+💡  Percaya bahwa solusi terbaik lahir dari kebiasaan konsisten
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-22C55E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -31,7 +40,69 @@ Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan ekspe
   <img src="https://img.shields.io/badge/Dart-047857?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-## Connect with Me
+---
+
+## 🧰 Tools & Frameworks
+
+<p align="center">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="42" height="42" title="Laravel" />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42" title="Flutter" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" title="Firebase" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42" title="Google Cloud" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="42" height="42" title="Bootstrap" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" title="Git" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42" title="TensorFlow" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42" title="Arduino" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" title="Tailwind CSS" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42" title="Spring" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" title="Figma" />
+  </a>
+</p>
+
+---
+
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=a0e6b4&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Kontribusi
+
+<div align="center">
+
+<img src="github-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://discord.gg/3emwPdd2"><img src="https://img.shields.io/badge/Discord-22C55E?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -41,18 +112,12 @@ Saya suka membangun antarmuka yang rapi, aplikasi yang ringan dipakai, dan ekspe
   <a href="https://youtube.com/@budiamin3174"><img src="https://img.shields.io/badge/YouTube-166534?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-## Tools
+---
 
-<p align="center">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="40" height="40" /></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" /></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=budiamin&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" alt="Profile Views" />
+
+*"Kode yang baik bukan tentang seberapa cepat kamu menulisnya, tapi seberapa mudah orang lain membacanya."*
+
+</div>
